@@ -1,0 +1,38 @@
+a:link{
+    color:red;
+}
+
+#header {
+    font-size: 20px;
+    color:darkgreen;
+    font-family: Georgia;
+    text-align: center;
+}
+
+ul >li {
+    color:black;
+}
+h4 {
+    font-family: Georgia;
+    text-align: center;
+}
+
+p{
+    line-height: 25px;
+}
+
+a {
+    text-decoration: none;
+}
+
+#uppercase {
+    text-transform: uppercase;
+}
+
+a:hover {
+text-decoration: underline;
+}
+img {
+    float: left;
+    margin: 20px;
+}
